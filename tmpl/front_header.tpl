@@ -70,7 +70,7 @@
 
 </div>
 
-
+{literal}
 <script>
     'use strict'
 
@@ -122,7 +122,7 @@
         };
     })();
 </script>
-
+{/literal}
 
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-lg-between">

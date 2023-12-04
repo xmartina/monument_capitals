@@ -68,6 +68,7 @@
     <i class="fas fa-arrow-up text-light"></i>
 </button>
 
+{literal}
 <script src="/template/asset/common/js/jquery.min.js"></script>
 <script src="/template/asset/common/js/bootstrap.bundle.min.js"></script>
 <script src="/template/asset/common/js/slick.min.js"></script>
@@ -217,7 +218,7 @@
         document.documentElement.scrollTop = 0;
     }
 </script>
-
+{/literal}
 
     </body>
 </html>
