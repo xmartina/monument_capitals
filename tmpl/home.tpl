@@ -11,7 +11,7 @@
 
 
     <section class="banner-section cover-image"
-             style="background-image: url(asset/theme1/images/banner/63148233390f51662288435.jpg);">
+             style="background-image: url('/template/asset/theme1/images/banner/63148233390f51662288435.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-xxl-6 col-xl-7 col-lg-8 text-lg-start text-center">
@@ -55,7 +55,8 @@
                                                      target="_blank"><span class="blue-text">Markets today</span></a> by
             TradingView
         </div>
-        <script type="text/javascript" src="../external-embedding/embed-widget-ticker-tape.js" async="">
+        {literal}
+        <script type="text/javascript" src="/external-embedding/embed-widget-ticker-tape.js" async="">
             {
                 "symbols"
             :
@@ -97,6 +98,7 @@
                 "en"
             }
         </script>
+        {/literal}
     </div>
     <!-- TradingView Widget END -->
 
@@ -734,7 +736,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>admin admin</h4>
@@ -745,7 +747,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>kayrog manzini</h4>
@@ -756,7 +758,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Raji Raji</h4>
@@ -767,7 +769,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Work 0147</h4>
@@ -778,7 +780,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Richard phala</h4>
@@ -789,7 +791,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Jerry K</h4>
@@ -800,7 +802,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Testcodez T</h4>
@@ -811,7 +813,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Walulya micah</h4>
@@ -822,7 +824,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Haseeb Jhan</h4>
@@ -833,7 +835,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Test Test</h4>
@@ -844,7 +846,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Debbie Boggan</h4>
@@ -855,7 +857,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Samace Host</h4>
@@ -866,7 +868,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Azaz Khan</h4>
@@ -877,7 +879,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>test test</h4>
@@ -888,7 +890,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Haruuu nkaskjj</h4>
@@ -899,7 +901,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Rafiul Islam Islam</h4>
@@ -910,7 +912,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Elmar Salehov</h4>
@@ -921,7 +923,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Vagner Santana de oliveira</h4>
@@ -932,7 +934,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>sususus jejehee</h4>
@@ -943,7 +945,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>hypmax hypmax1</h4>
@@ -954,7 +956,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Saiful Yusof</h4>
@@ -965,7 +967,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Zill E HasNain</h4>
@@ -976,7 +978,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>killian rousseau</h4>
@@ -987,7 +989,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Julie Saphire</h4>
@@ -998,7 +1000,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Inam Khan</h4>
@@ -1009,7 +1011,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Chukwuma Akajiofor</h4>
@@ -1020,7 +1022,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Udjd Jzjddjdj</h4>
@@ -1031,7 +1033,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>test acc</h4>
@@ -1042,7 +1044,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Janet Vidanes</h4>
@@ -1053,7 +1055,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>geldim geldim</h4>
@@ -1064,7 +1066,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Chinaza Brendan</h4>
@@ -1075,7 +1077,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Jodi Flora</h4>
@@ -1086,7 +1088,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>shiv choyal</h4>
@@ -1097,7 +1099,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>shhdhjd wue</h4>
@@ -1108,7 +1110,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>musgshs Vdhsjdhf</h4>
@@ -1119,7 +1121,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>bbfg nnkm</h4>
@@ -1130,7 +1132,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>afdsgd sdfgsfd</h4>
@@ -1141,7 +1143,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>won der</h4>
@@ -1152,7 +1154,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Kpateng David</h4>
@@ -1163,7 +1165,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>John Doe Doe</h4>
@@ -1174,7 +1176,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>tahin abid</h4>
@@ -1185,7 +1187,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Joe Doe</h4>
@@ -1196,7 +1198,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>romel Kenfack</h4>
@@ -1207,7 +1209,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Clement Obeng</h4>
@@ -1218,7 +1220,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Jon Konor</h4>
@@ -1229,7 +1231,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Rs Mahmud</h4>
@@ -1240,7 +1242,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Ndifreke King</h4>
@@ -1251,7 +1253,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>test test</h4>
@@ -1262,7 +1264,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>cartsg hajnzbb</h4>
@@ -1273,7 +1275,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Hiru Kodi</h4>
@@ -1284,7 +1286,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Dodol Dodol</h4>
@@ -1295,7 +1297,7 @@
                 <div class="single-slide">
                     <div class="investor-item">
                         <div class="thumb cover-image"
-                             style="background-image: url('asset/common/images/placeholder.png');">
+                             style="background-image: url('/template/asset/common/images/placeholder.png');">
                         </div>
                         <div class="content">
                             <h4>Sam Ayebanate</h4>
