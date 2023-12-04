@@ -1,15 +1,12 @@
-
 {$SiteName = "Capital Coin Investment"}
 {$PageTage = "Secured Investment Platform"}
 {$siteLogo = "/assets/images/logo/logo.png"}
 {$siteLogoDark = "/assets/images/logo/logo.png"}
 {$siteIcon = "/assets/images/logo/favicon.png"}
 {$pageName = "Home"}
-{include file="front_header.tpl"}
+{*{include file="front_header.tpl"}*}
 
 <main id="main" class="main-img">
-
-
     <section class="banner-section cover-image"
              style="background-image: url('/template/asset/theme1/images/banner/63148233390f51662288435.jpg');">
         <div class="container">
@@ -56,48 +53,48 @@
             TradingView
         </div>
         {literal}
-        <script type="text/javascript" src="/external-embedding/embed-widget-ticker-tape.js" async="">
-            {
-                "symbols"
-            :
-                [{
-                    "proName": "FOREXCOM:SPXUSD",
-                    "title": "S&P 500"
-                },
-                    {
-                        "proName": "FOREXCOM:NSXUSD",
-                        "title": "US 100"
+            <script type="text/javascript" src="/external-embedding/embed-widget-ticker-tape.js" async="">
+                {
+                    "symbols"
+                :
+                    [{
+                        "proName": "FOREXCOM:SPXUSD",
+                        "title": "S&P 500"
                     },
-                    {
-                        "proName": "FX_IDC:EURUSD",
-                        "title": "EUR/USD"
-                    },
-                    {
-                        "proName": "BITSTAMP:BTCUSD",
-                        "title": "Bitcoin"
-                    },
-                    {
-                        "proName": "BITSTAMP:ETHUSD",
-                        "title": "Ethereum"
-                    }
-                ],
-                    "showSymbolLogo"
-            :
-                true,
-                    "colorTheme"
-            :
-                "dark",
-                    "isTransparent"
-            :
-                true,
-                    "displayMode"
-            :
-                "adaptive",
-                    "locale"
-            :
-                "en"
-            }
-        </script>
+                        {
+                            "proName": "FOREXCOM:NSXUSD",
+                            "title": "US 100"
+                        },
+                        {
+                            "proName": "FX_IDC:EURUSD",
+                            "title": "EUR/USD"
+                        },
+                        {
+                            "proName": "BITSTAMP:BTCUSD",
+                            "title": "Bitcoin"
+                        },
+                        {
+                            "proName": "BITSTAMP:ETHUSD",
+                            "title": "Ethereum"
+                        }
+                    ],
+                        "showSymbolLogo"
+                :
+                    true,
+                        "colorTheme"
+                :
+                    "dark",
+                        "isTransparent"
+                :
+                    true,
+                        "displayMode"
+                :
+                    "adaptive",
+                        "locale"
+                :
+                    "en"
+                }
+            </script>
         {/literal}
     </div>
     <!-- TradingView Widget END -->
@@ -1742,4 +1739,4 @@
     </div>
 </main>
 
-{*{include file="front_footer.tpl"}*}
+{include file="front_footer.tpl"}
