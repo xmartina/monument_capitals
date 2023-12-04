@@ -1742,4 +1742,4 @@
     </div>
 </main>
 
-{include file="front_footer.tpl"}
+{*{include file="front_footer.tpl"}*}
