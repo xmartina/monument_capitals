@@ -205,4 +205,3 @@
         </div>
     </div>
 </header>
-<main id="main" class="main-img">
